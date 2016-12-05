@@ -1,0 +1,13 @@
+{
+  "name": "@enoah_netzach/jest-duplicate-manual-mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "cd jest15 && npm install && cd ../jest17 && npm install",
+    "test:15": "cd jest15 && npm test",
+    "test:17": "cd jest17 && npm test"
+  },
+  "author": "",
+  "license": "ISC"
+}

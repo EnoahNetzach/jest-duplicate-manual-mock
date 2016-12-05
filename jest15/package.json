@@ -1,0 +1,17 @@
+{
+  "name": "@enoah_netzach/jest-duplicate-manual-mock-jest16",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^15.0.0"
+  },
+  "jest": {
+    "rootDir": "../src"
+  }
+}
